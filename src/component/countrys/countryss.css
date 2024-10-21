@@ -1,0 +1,18 @@
+.stylee {
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.btn {
+  padding: 10px;
+  background-color: blueviolet;
+  font-size: 20px;
+  border-radius: 15px;
+}
+
+.visited {
+  background-color: bisque;
+  color: black;
+}
